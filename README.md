@@ -5,7 +5,7 @@
 
 **组长：** HerryJhonson
 
-**组员：** 
+**组员：** ccfae & sparkrazon
 
 **项目名称：** 易用的图片处理工具
 
