@@ -3,9 +3,7 @@
 
 **万里阳光小组项目管理**
 
-**组长：** HerryJhonson
-
-**组员：** ccfae & sparkrazon
+**组长：** HerryJhonson **组员：** ccfae & sparkrazon
 
 **项目名称：** 易用的图片处理工具
 
